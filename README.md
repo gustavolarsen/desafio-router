@@ -25,7 +25,7 @@ O sistema simula uma aplicação web com múltiplas rotas, demonstrando:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/desafio-router.git
+git clone https://github.com/gustavolarsen/desafio-router.git
 cd desafio-router
 ```
 

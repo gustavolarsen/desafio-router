@@ -1,0 +1,20 @@
+.contato {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.info li {
+  font-size: 1rem;
+
+  margin-bottom: 0.8rem;
+}
+
+.info li::before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 2px;
+  background-color: #ddd;
+  margin-right: 0.5rem;
+}

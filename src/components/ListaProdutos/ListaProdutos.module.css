@@ -1,0 +1,9 @@
+.listaProdutos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.listaProdutos h2 {
+  margin: 0.5rem 0;
+}
